@@ -1,0 +1,20 @@
+{
+  "name": "story-screen-studio-github",
+  "interface": {
+    "displayName": "Story Screen Studio Github"
+  },
+  "plugins": [
+    {
+      "name": "story-screen-studio",
+      "source": {
+        "source": "local",
+        "path": "./plugins/story-screen-studio"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

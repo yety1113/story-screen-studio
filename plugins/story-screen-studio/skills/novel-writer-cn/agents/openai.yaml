@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说基础创作"
+  short_description: "用于小说与影视创作中的小说基础创作，结合当前项目材料完成相应创作任务"
+  default_prompt: "使用 $novel-writer-cn，根据我提供的故事材料完成小说基础创作。"

@@ -1,0 +1,18 @@
+{
+  "name": "story-screen-studio",
+  "version": "0.1.0",
+  "description": "面向影视改编潜力的中文小说创作流程，GitHub 精简版含 8 个技能。",
+  "author": {
+    "name": "Story Screen Studio"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "故事影视创作室 · 精简版",
+    "shortDescription": "从小说故事设计到影视改编提案的 8 技能创作工作室。",
+    "longDescription": "帮助作者发展故事、人物、情节节奏，审核正文并准备影视改编提案。独立精简版，不包含私人附件、书籍摘录库或未明确授权的第三方技能。",
+    "developerName": "Story Screen Studio",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "使用 story-studio，帮我发展一部具有影视改编潜力的小说。先判断核心故事，不要直接写正文。"
+  }
+}

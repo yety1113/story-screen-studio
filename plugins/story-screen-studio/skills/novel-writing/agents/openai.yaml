@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说叙事精修"
+  short_description: "用于小说与影视创作中的小说叙事精修，结合当前项目材料完成相应创作任务"
+  default_prompt: "使用 $novel-writing，根据我提供的故事材料完成小说叙事精修。"
